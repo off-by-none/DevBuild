@@ -1,0 +1,21 @@
+﻿@model Lab11._3_CoffeeShop.Models.RegisterModel
+
+@{
+    ViewData["Title"] = "Registration";
+}
+
+<h1>Registration</h1>
+<br />
+
+Welcome @Model.FirstName @Model.LastName!
+<br />
+<br />
+
+An email has been sent to @Model.Email and a SMS sent to @Model.PhoneNumber.
+<br />
+<br />
+Password: @Model.Password<br />
+Gender: @Model.Gender<br />
+Over the age of 21?: @Model.Over21<br />
+<br />
+You are now registered!

@@ -1,0 +1,48 @@
+﻿@model Lab161_ClientSideValidation.Models.User
+
+@{
+    ViewData["Title"] = "User";
+}
+
+<h1>User</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="User" method="post" onsubmit="return validateForm()">
+            <div class="form-group">
+                <label class="control-label" for="FirstName" id="FirstNameLabel">First Name</label>
+                <input class="form-control" type="text" id="FirstName" name="FirstName" value="" />
+                <span class="text-danger field-validation-valid" id="FirstNameFeedback"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="LasttName" id="LastNameLabel">Last Name</label>
+                <input class="form-control" type="text" id="LastName" name="LastName" value="" />
+                <span class="text-danger field-validation-valid" id="LastNameFeedback"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="Email" id="EmailLabel">Email</label>
+                <input class="form-control" type="text" id="Email" name="Email" value="" />
+                <span class="text-danger field-validation-valid" id="EmailFeedback"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="Password" id="PasswordLabel">Password</label>
+                <input class="form-control" type="text" id="Password" name="Password" value="" />
+                <span class="text-danger field-validation-valid" id="PasswordFeedback"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" for="ConfirmPassword" id="ConfirmPasswordLabel">Confirm Password</label>
+                <input class="form-control" type="text" id="ConfirmPassword" name="ConfirmPassword" value="" />
+                <span class="text-danger field-validation-valid" id="ConfirmPasswordFeedback"></span>
+            </div>
+            <div id="Feedback"></div>
+            <div class="form-group">
+                <input type="submit" value="Register" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<br />
+<br />
+
+<script src="~/js/user-validation.js"></script>

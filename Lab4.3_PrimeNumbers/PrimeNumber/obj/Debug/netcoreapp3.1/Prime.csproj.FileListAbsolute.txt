@@ -1,0 +1,11 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\bin\Debug\netcoreapp3.1\Prime.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\bin\Debug\netcoreapp3.1\Prime.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\bin\Debug\netcoreapp3.1\Prime.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\bin\Debug\netcoreapp3.1\Prime.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\bin\Debug\netcoreapp3.1\Prime.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\bin\Debug\netcoreapp3.1\Prime.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\obj\Debug\netcoreapp3.1\Prime.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\obj\Debug\netcoreapp3.1\Prime.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\obj\Debug\netcoreapp3.1\Prime.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\obj\Debug\netcoreapp3.1\Prime.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.3_PrimeNumbers\Lab43_PrimeNumbers\PrimeNumber\obj\Debug\netcoreapp3.1\Prime.pdb

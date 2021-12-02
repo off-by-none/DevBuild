@@ -1,0 +1,11 @@
+Get all movies:
+https://localhost:44354/api/movie
+
+Get movies by genre:
+https://localhost:44354/api/movie?genres=Comedy,Drama
+
+Get random movie:
+https://localhost:44354/api/movie/random
+
+Get randon movie by genre:
+https://localhost:44354/api/movie/random?genre=Animation,Comedy,Family

@@ -1,0 +1,55 @@
+﻿@model Question
+@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Create a New Question";
+}
+
+<br />
+<br />
+<br />
+<br />
+<div class="card border-primary mb-0" style="max-width: 20rem;">
+    <div class="card-header">Ask a Question!</div>
+    <div class="card-body form-group">
+        <form asp-controller="QandA" asp-action="Add" method="post">
+            <p>
+                @Html.LabelFor(m => m.Username)
+                @Context.Session.GetString("Username")
+            </p>
+            <p>
+                @Html.LabelFor(m => m.Title)
+                @Html.EditorFor(m => m.Title, new { htmlAttributes = new { @class = "form-control" } })
+            </p>
+            <p>
+                @Html.LabelFor(m => m.Detail)
+                <textarea class="form-control" id="Detail" name="Detail" rows="3" cols="30">@Model.Detail</textarea>
+            </p>
+            <p>
+                @Html.LabelFor(m => m.Tags) (just type in keywords)
+                @Html.EditorFor(m => m.Tags)
+            </p>
+            <p>
+                @Html.LabelFor(m => m.Category)
+                <select asp-for="Category">
+                    <option>C#</option>
+                    <option>CSS</option>
+                    <option>HTML</option>
+                    <option>Java</option>
+                    <option>JavaScript</option>
+                </select>
+            </p>
+            <p><input type="submit" class="btn btn-primary" value="Ask!" /></p>
+        </form>
+    </div>
+</div>
+
+@*<p>
+        @Html.LabelFor(m => m.Posted)
+        @{
+            //format the date right to fill in the input field
+            string datetime = DateTime.Now.ToString("yyyy-MM-dd hh:mm");
+        }
+        <input type="datetime" value="@datetime" />
+    </p>*@
+<!-- add the status field for edit -->

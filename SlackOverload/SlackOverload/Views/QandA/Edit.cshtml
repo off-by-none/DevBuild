@@ -1,0 +1,51 @@
+﻿@model Question
+
+@{
+    ViewData["Title"] = "Edit Question";
+}
+
+<br />
+<br />
+<br />
+<br />
+<div class="card border-primary mb-0" style="max-width: 20rem;">
+    <div class="card-header">Edit Question</div>
+    <div class="card-body form-group">
+        <form asp-controller="QandA" asp-action="Edit" method="post">
+            <p>
+                @Html.LabelFor(m => m.Username)
+                @Model.Username
+            </p>
+            <p>
+                @Html.LabelFor(m => m.Title)
+                @Html.EditorFor(m => m.Title)
+            </p>
+            <p>
+                @Html.LabelFor(m => m.Detail)
+                <textarea id="Detail" name="Detail" rows="5" cols="35">@Model.Detail</textarea>
+            </p>
+
+            <p>
+                @Html.LabelFor(m => m.Tags) (just type in keywords)
+                @Html.EditorFor(m => m.Tags)
+            </p>
+
+            <p>
+                @Html.LabelFor(m => m.Category)
+                <select asp-for="Category">
+                    <option>C#</option>
+                    <option>CSS</option>
+                    <option>HTML</option>
+                    <option>Java</option>
+                    <option>JavaScript</option>
+                </select>
+            </p>
+
+            <p><input type="submit" class="btn btn-primary" value="Edit" /></p>
+        </form>
+    </div>
+</div>
+<br />
+<br />
+<br />
+<br />

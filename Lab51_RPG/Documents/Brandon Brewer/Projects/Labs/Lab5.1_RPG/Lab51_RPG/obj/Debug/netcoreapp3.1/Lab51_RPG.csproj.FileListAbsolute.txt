@@ -1,0 +1,11 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\bin\Debug\netcoreapp3.1\Lab51_RPG.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\bin\Debug\netcoreapp3.1\Lab51_RPG.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\bin\Debug\netcoreapp3.1\Lab51_RPG.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\bin\Debug\netcoreapp3.1\Lab51_RPG.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\bin\Debug\netcoreapp3.1\Lab51_RPG.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\bin\Debug\netcoreapp3.1\Lab51_RPG.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\obj\Debug\netcoreapp3.1\Lab51_RPG.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\obj\Debug\netcoreapp3.1\Lab51_RPG.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\obj\Debug\netcoreapp3.1\Lab51_RPG.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\obj\Debug\netcoreapp3.1\Lab51_RPG.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.1_RPG\Lab51_RPG\obj\Debug\netcoreapp3.1\Lab51_RPG.pdb

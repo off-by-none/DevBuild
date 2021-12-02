@@ -1,0 +1,27 @@
+﻿@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<br />
+<br />
+<br />
+<br />
+<div class="jumbotron">
+    <h1 class="display-3">Hello, @Context.Session.GetString("Username")!</h1>
+    <p class="lead">SlackOverload is an open community for anyone that codes. We help you get answers to your toughest coding questions.</p>
+    <p class="lead">
+        <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+            <button type="button" class="btn btn-primary">Actions</button>
+            <div class="btn-group" role="group">
+                <button id="btnGroupDrop1" type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+                <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                    <a class="dropdown-item" href="../QandA/index">View Questions</a>
+                    <a class="dropdown-item" href="../QandA/Add">Ask a Question</a>
+                    <a class="dropdown-item" href="../Sessions">Logout</a>
+                </div>
+            </div>
+        </div>
+    </p>
+</div>

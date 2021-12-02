@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Search Results";
+    List<Question> Questions = (List<Question>)ViewData["Search Results"];
+}
+
+<br />
+<br />
+<br />
+<h1>Search Results</h1>
+
+@foreach (Question q in Questions)
+{
+    <div class="jumbotron">
+        <h4><a href="/QandA/Detail/@q.Id">Q: @q.Title</a></h4>
+        <p class="lead">
+            @if (q.Detail.Length > 100)
+            {
+                <div>@q.Detail.Substring(0, 100) ...</div>
+            }
+            else
+            {
+                <div>@q.Detail</div>
+            }
+            <span class="badge badge-primary badge-pill">@q.Category</span><small> asked @q.Posted by @q.Username</small>
+        </p>
+    </div>
+}
+<br />
+<br />

@@ -1,0 +1,10 @@
+INSERT INTO Equipment (EquipName, Info, Modifier, EquipType)
+VALUES
+
+('Great Sword', 'This sword was forged from rare metals. Grants 3 attack damage ', 3, 'Attack'),
+
+('War Hammer',  'This hammer grants 2 AP', 2, 'AP-Boost'),
+
+('Mage Staff',  'You shall not pass. Adds 5 to HP', 5, 'HP'),
+
+('Necklace', 'Created from a dragon's tears. Grants 3 defense', 3, 'Defense');

@@ -1,0 +1,58 @@
+﻿@model Lab11._3_CoffeeShop.Models.RegisterModel
+
+@{
+    ViewData["Title"] = "Registration Form";
+}
+
+<h1>Please fill the form to register!</h1>
+
+@{
+    if (ViewData["errorMsg"] != null)
+    {
+    <p><strong>@ViewData["errorMsg"]</strong></p>
+    }
+}
+
+
+<form asp-controller="Registration" asp-action="Registration" method="post">
+    <br />
+    <fieldset>
+        @Html.LabelFor(m => m.FirstName): <br />@Html.EditorFor(m => m.FirstName)<br /><br />
+        @Html.LabelFor(m => m.LastName): <br />@Html.EditorFor(m => m.LastName)<br /><br />
+        @Html.LabelFor(m => m.Email): <br /><input asp-for="Email" /><br /><br />
+        @Html.LabelFor(m => m.PhoneNumber): <br />@Html.EditorFor(m => m.PhoneNumber)<br /><br />
+        @Html.LabelFor(m => m.Password): <br /><input asp-for="Password" /><br /><br />
+
+        @Html.LabelFor(m => m.Gender):<br />
+        <select asp-for="Gender">
+            @{
+                <option>Male</option>
+                <option>Female</option>
+                <option>Other</option>
+            }
+        </select><br /><br />
+
+        @Html.LabelFor(m => m.Over21):<br />
+        <input type="radio" value="true" asp-for="Over21" />
+            @{<label for="true">Yes</label>}
+        <input type="radio" value="false" asp-for="Over21" />
+            @{<label for="false">No</label>}
+        <br /><br />
+
+        @Html.LabelFor(m => m.CoffeeTypes):<br />
+        <input type="checkbox" name="coffee" id="espresso" value="espresso" asp-for="CoffeeTypes">
+        <label for="espresso"> Espresso</label><br>
+        <input type="checkbox" name="coffee" id="americano" value="americano" asp-for="CoffeeTypes">
+        <label for="americano"> Americano</label><br>
+        <input type="checkbox" name="coffee" id="macchiato" value="macchiato" asp-for="CoffeeTypes">
+        <label for="macchiato"> Macchiato</label><br>
+        <input type="checkbox" name="coffee" id="cappuccino" value="cappuccino" asp-for="CoffeeTypes">
+        <label for="cappuccino"> Cappuccino</label><br>
+        <input type="checkbox" name="coffee" id="mocha" value="mocha" asp-for="CoffeeTypes">
+        <label for="mocha"> Mocha</label><br>
+        <br /><br />
+
+        <input type="submit" value="Register" />
+
+    </fieldset>
+</form>

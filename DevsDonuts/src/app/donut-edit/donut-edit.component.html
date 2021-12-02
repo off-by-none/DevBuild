@@ -1,0 +1,14 @@
+<h3>Edit Donut</h3>
+<br />
+
+<form>
+    <h5>Name:</h5>
+    <input [(ngModel)]="donut.name" name="name" placeholder="Donut Name" type="text">
+    <br />
+    <br />
+    <h5>Calories:</h5>
+    <input [(ngModel)]="donut.calories" name="calories" placeholder="Donut Calories" type="text">
+    <br />
+    <br />
+    <button [routerLink]="['/donut']" idString="button-primary" sprkButton>Save</button>
+</form>

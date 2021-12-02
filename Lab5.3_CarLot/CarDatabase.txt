@@ -1,0 +1,6 @@
+﻿Chevrolet,Cruze,2012,7997,9042
+Dodge,Journey,2018,20789,19767
+Nissan,Sentra,2017,12899,26780
+Ford,Mustang,2020,29775
+Chevrolet,Equinox,2020,21930
+Ford,Expedition,2020,52810

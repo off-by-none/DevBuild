@@ -1,0 +1,11 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1_StudentInformation.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1_StudentInformation.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1_StudentInformation.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1_StudentInformation.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1_StudentInformation.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\bin\Debug\netcoreapp3.1\Lab3.1_StudentInformation.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1_StudentInformation.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1_StudentInformation.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1_StudentInformation.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1_StudentInformation.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.1_StudentInformation\Lab3.1_StudentInformation\obj\Debug\netcoreapp3.1\Lab3.1_StudentInformation.pdb

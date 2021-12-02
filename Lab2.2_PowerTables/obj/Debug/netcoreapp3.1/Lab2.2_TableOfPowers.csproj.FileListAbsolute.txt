@@ -1,0 +1,11 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\bin\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\bin\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\bin\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\bin\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\bin\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\bin\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\obj\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\obj\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\obj\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\obj\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\Lab2.2_TableOfPowers\obj\Debug\netcoreapp3.1\Lab2.2_TableOfPowers.pdb

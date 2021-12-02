@@ -1,0 +1,18 @@
+userName,UserLogin,Password
+Andrew Steward,ASteward1,password
+Brandon Brewer,BBREWER2,password
+Brea Spencer,BSpencer,password
+Della Shelton,DSHELTON,password
+Jacob Fish,JFISH,password
+John Stempowski,JSTEMPOWSKI,password
+Laura Brock,LBROCK,password
+Lucero Toral,LToral,password
+Michael DuBose,MDuBose,password
+Mike Schwartz,MSchwartz2,password
+Nicolas Gerhardt,NGERHARDT1,password
+Olaposi Omishope,OOMISHOPE,password
+Riley Shirk,RShirk,password
+Sameer Siddiqui,SSIDDIQUI,password
+Socrates Katrivesis,SKATRIVESIS,password
+Tom Barron,TBARRON,password
+Mystery Person,USER,password

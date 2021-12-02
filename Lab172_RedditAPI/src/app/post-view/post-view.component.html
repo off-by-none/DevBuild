@@ -1,0 +1,17 @@
+<div class="list-group">
+    <a href="https://www.reddit.com{{myPost.data.permalink}}" class="list-group-item list-group-item-action flex-column align-items-start active">
+        <div class="d-flex w-100 justify-content-between">
+            <h3 class="mb-1">{{ myPost.data.title }}</h3>
+        </div>
+    </a>
+
+    <a href="https://www.reddit.com{{myPost.data.permalink}}" class="list-group-item list-group-item-action flex-column align-items-start">
+        <div class="d-flex w-100 justify-content-between">
+            <img src={{myPost.data.thumbnail}}/>
+            <small class="text-muted">{{ myPost.data.created_utc | date }}</small>
+        </div>
+        <p class="mb-1">Score: {{ myPost.data.score }} | {{ myPost.data.upvote_ratio | percent }} </p>
+        <small class="text-muted">By: {{ myPost.data.author }}</small>
+    </a>
+</div>
+<br/>

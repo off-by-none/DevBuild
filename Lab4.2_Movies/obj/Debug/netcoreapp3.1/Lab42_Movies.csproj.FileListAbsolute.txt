@@ -1,0 +1,11 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\bin\Debug\netcoreapp3.1\Lab42_Movies.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\bin\Debug\netcoreapp3.1\Lab42_Movies.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\bin\Debug\netcoreapp3.1\Lab42_Movies.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\bin\Debug\netcoreapp3.1\Lab42_Movies.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\bin\Debug\netcoreapp3.1\Lab42_Movies.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\bin\Debug\netcoreapp3.1\Lab42_Movies.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\obj\Debug\netcoreapp3.1\Lab42_Movies.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\obj\Debug\netcoreapp3.1\Lab42_Movies.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\obj\Debug\netcoreapp3.1\Lab42_Movies.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\obj\Debug\netcoreapp3.1\Lab42_Movies.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.2_Movies\Lab42_Movies\obj\Debug\netcoreapp3.1\Lab42_Movies.pdb

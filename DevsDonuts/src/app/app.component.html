@@ -1,0 +1,37 @@
+<br/>
+<h1 sprkHeading variant="displayTwo">Devs and Donuts</h1>
+<br/>
+<a href="/donut/" class=".sprk-c-Button--compact">
+    <button 
+        (click)="isSpinningDonutBtn()" 
+        idString="button-loading" 
+        analyticsString="loading" 
+        sprkButton 
+        [isSpinning]="isSpinningDonutBtnBool" > Donuts 
+    </button>
+</a> 
+<span>&nbsp;&nbsp;</span>
+<a href="/famous-people/">
+    <button 
+        (click)="isSpinningDevBtn()" 
+        idString="button-loading" 
+        analyticsString="loading" 
+        sprkButton 
+        [isSpinning]="isSpinningDevBtnBool" > Famous People 
+    </button>
+</a>
+<br/>
+<br/>
+
+<sprk-modal
+[(isVisible)]="isSpinningDevBtnBool || isSpinningDonutBtnBool"
+title="Loading"
+modalType="wait"
+idString="modal-wait-1"
+>
+<p class="sprk-c-Modal__content">
+  Hang on one second!
+</p>
+</sprk-modal>
+
+<router-outlet></router-outlet>

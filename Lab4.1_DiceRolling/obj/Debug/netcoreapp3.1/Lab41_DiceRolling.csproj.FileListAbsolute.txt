@@ -1,0 +1,11 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\bin\Debug\netcoreapp3.1\Lab41_DiceRolling.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\bin\Debug\netcoreapp3.1\Lab41_DiceRolling.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\bin\Debug\netcoreapp3.1\Lab41_DiceRolling.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\bin\Debug\netcoreapp3.1\Lab41_DiceRolling.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\bin\Debug\netcoreapp3.1\Lab41_DiceRolling.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\bin\Debug\netcoreapp3.1\Lab41_DiceRolling.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\obj\Debug\netcoreapp3.1\Lab41_DiceRolling.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\obj\Debug\netcoreapp3.1\Lab41_DiceRolling.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\obj\Debug\netcoreapp3.1\Lab41_DiceRolling.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\obj\Debug\netcoreapp3.1\Lab41_DiceRolling.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab4.1_DiceRolling\Lab41_DiceRolling\obj\Debug\netcoreapp3.1\Lab41_DiceRolling.pdb

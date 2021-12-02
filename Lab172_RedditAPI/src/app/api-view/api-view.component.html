@@ -1,0 +1,9 @@
+<h1>
+    AWWWWWWW
+    <small class="text-muted">subreddit</small>
+</h1>
+<br/>
+
+<div *ngFor="let p of posts?.data.children">
+    <app-post-view [myPost]="p"></app-post-view>
+</div>

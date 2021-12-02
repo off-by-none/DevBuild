@@ -1,0 +1,12 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\bin\Debug\netcoreapp3.1\Lab53_CarLot.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\bin\Debug\netcoreapp3.1\Lab53_CarLot.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\bin\Debug\netcoreapp3.1\Lab53_CarLot.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\bin\Debug\netcoreapp3.1\Lab53_CarLot.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\bin\Debug\netcoreapp3.1\Lab53_CarLot.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\bin\Debug\netcoreapp3.1\Lab53_CarLot.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\obj\Debug\netcoreapp3.1\Lab53_CarLot.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\obj\Debug\netcoreapp3.1\Lab53_CarLot.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\obj\Debug\netcoreapp3.1\Lab53_CarLot.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\obj\Debug\netcoreapp3.1\Lab53_CarLot.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\obj\Debug\netcoreapp3.1\Lab53_CarLot.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.3_CarLot\Lab53_CarLot\bin\Debug\netcoreapp3.1\CarDatabase.txt

@@ -1,0 +1,35 @@
+<sprk-card
+media="img"
+cardType="teaser"
+title="{{ donut.name }}"
+body="Calories: {{ donut.calories }}"
+imgSrc="{{ donut.photo }}"
+imgAlt="Placeholder Image"
+imgHref="#nogo"
+ctaType="button"
+[routerLink]="['/donut/', donut.id, 'edit']"
+ctaText="Edit Donut"
+ctaAnalytics="Button: Spark"
+additionalCtaClasses="sprk-c-Button--secondary"
+idString="card-teaser"
+>
+</sprk-card>
+
+
+<!----
+<br />
+<a
+href="/donut/"
+sprkLink
+variant="icon"
+idString="icon-link"
+analyticsString="icon-link"
+>
+<sprk-icon
+  iconType="communication"
+  additionalClasses="sprk-c-Icon--l sprk-c-Icon--stroke-current-color sprk-u-mrs"
+>
+</sprk-icon>
+Edit Donut
+</a>
+-->

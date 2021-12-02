@@ -1,0 +1,11 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\bin\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\Lab2.1_RoomCalculator\obj\Debug\netcoreapp3.1\Lab2.1_RoomCalculator.pdb

@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "es5", // what Typescript will be compiled to
+      "module": "commonjs", // what type of module generator will be used
+      "moduleResolution": "node", // how each module is resolved
+      "sourceMap": true, // generates a `.map` file
+      "removeComments": true, // removes all comments aside from the header comment
+      // beginning with /*!
+      "lib": [ "es2015", "dom" ], // various types that Typescript can use
+    }
+  }

@@ -1,0 +1,27 @@
+/* Run this first */
+CREATE DATABASE CoffeeShop;
+?
+/* run these commands after */
+USE CoffeeShop;
+?
+CREATE TABLE Products (
+	[Id] int NOT NULL PRIMARY KEY IDENTITY(1,1),
+	[Name] nvarchar(50) NOT NULL,
+	[Price] real NOT NULL, /*real is a synonym for double*/
+	[Description] nvarchar(280),
+	[Category] nvarchar(20) NOT NULL 
+);
+
+
+/* then run this to populate table */
+INSERT INTO Products 
+([Name], [Price], [Category], [Description])
+VALUES
+('Espresso', 2.79, 'Beverage', '1 shot of espresso'),
+('Double Espresso', 3.79, 'Beverage', '2 shots of espresso'),
+('Americano', 4.59, 'Beverage', '1 shot of espresso + 3 oz. of hot water'),
+('Macchiato', 4.59, 'Beverage', '1 shot of espresso + 1 to 2 teaspoons of steamed milk'),
+('Cappuccino', 3.79, 'Beverage', '1-2 shots of espresso + 2 oz. of steamed milk + 2 oz. of foamed milk + sprinkling of chocolate powder'),
+('Cafe Latte', 3.79, 'Beverage', '1 shot of espresso + 8-10 oz. of steamed milk + 1 cm of foam'),
+('Mocha', 4.99, 'Beverage', '1 shot of espresso + 1-2 oz. of chocolate syrup/powder + 1-3 oz. of steamed milk + 2-3 cm of foam or whipped cream'),
+('Iced Coffee', 3.79, 'Beverage', '2 oz. drip coffee or espresso + 4 oz. of ice + 4-6 oz of milk or water + flavoring syrup to taste')

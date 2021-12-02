@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab43_PrimeNumbers", "Lab43_PrimeNumbers\Lab43_PrimeNumbers.csproj", "{AABC9195-6980-4E80-B939-9729104CDADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime", "PrimeNumber\Prime.csproj", "{7D50F726-5C22-40BE-B7F7-1D6110F9D06F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AABC9195-6980-4E80-B939-9729104CDADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABC9195-6980-4E80-B939-9729104CDADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABC9195-6980-4E80-B939-9729104CDADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABC9195-6980-4E80-B939-9729104CDADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D50F726-5C22-40BE-B7F7-1D6110F9D06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D50F726-5C22-40BE-B7F7-1D6110F9D06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D50F726-5C22-40BE-B7F7-1D6110F9D06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D50F726-5C22-40BE-B7F7-1D6110F9D06F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B8C903-8133-4098-BA38-D8AB2A1C1108}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+﻿
+@model Hand
+
+@{
+    ViewData["Title"] = "Hand";
+}
+
+<h1>Your Hand</h1>
+<ul>
+    @foreach (CardData c in Model.Cards)
+    {
+        <li>@c.Value of @c.Suit <img src=@c.Image /></li>
+    }
+</ul>
+<br />
+<a class="btn btn-primary btn-lg" href="/Cards/Hand" role="button">Deal Again!</a>
+<br />
+<br />
+<br />

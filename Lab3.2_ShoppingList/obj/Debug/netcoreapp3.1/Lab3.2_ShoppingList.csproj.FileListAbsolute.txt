@@ -1,0 +1,11 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2_ShoppingList.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2_ShoppingList.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2_ShoppingList.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2_ShoppingList.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2_ShoppingList.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2_ShoppingList.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2_ShoppingList.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2_ShoppingList.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2_ShoppingList.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2_ShoppingList.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab3.2_ShoppingList\Lab3.2_ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2_ShoppingList.pdb

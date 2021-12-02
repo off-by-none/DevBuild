@@ -1,0 +1,9 @@
+
+<h2>Donuts</h2>
+<br/>
+<div *ngFor="let d of donuts?.results, index as i">
+    <!-- <app-donut-detail  [ref]="d.ref" [id]="i"></app-donut-detail> -->
+    <a [routerLink]="['/donut', i]" [id]="i" sprkLink idString="default-link" analyticsString="default-link">{{d.name}}</a>
+    <br />
+    <br />
+</div>

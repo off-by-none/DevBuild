@@ -1,0 +1,18 @@
+<h2>Famous People</h2>
+
+<br />
+
+<sprk-accordion>
+  <sprk-accordion-item  
+    *ngFor="let d of devs?.complete"
+    title="{{d.firstName}} {{d.lastName}}"
+    additionalClasses="sprk-u-mbs"
+    additionalHeadingClasses="sprk-b-TypeDisplaySeven"
+    idString="accordion-item-1"
+    analyticsString="object.action.event">
+    <p>
+      {{d.innovation}}
+      {{d.year}}
+    </p>
+  </sprk-accordion-item>
+</sprk-accordion>

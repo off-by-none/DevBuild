@@ -1,0 +1,49 @@
+﻿@model Question
+@using Microsoft.AspNetCore.Http
+
+@{
+    ViewData["Title"] = Model.Title;
+    List<Answer> Answers = (List<Answer>)ViewData["Answers"];
+}
+
+<br />
+<br />
+<br />
+<br />
+<h1 style="color: #DF691A">@Model.Title</h1>
+<div>@Model.Detail</div>
+<br />
+<div><span class="badge badge-primary badge-pill">@Model.Category</span><small> asked @Model.Posted by @Model.Username</small></div>
+
+@if (Model.Username == Context.Session.GetString("Username")) //edit question will only show up if username matches
+{
+    <div><a href="/QandA/Edit/@Model.Id">Edit question</a></div>
+}
+
+<br />
+<br />
+<h2>Answers</h2>
+@if (Answers.Count == 0)
+{
+    <p>There are no answers yet.</p>
+}
+
+@foreach (Answer a in Answers)
+{
+    <div class="jumbotron">
+        <p class="lead">
+            <strong>@a.Username</strong>:
+            @a.Detail<br />
+            <em>@a.Posted</em> Votes: @a.Upvotes
+
+            @if (a.Username == Context.Session.GetString("Username")) //edit answer will only show up if username matches
+            {
+                <a href="/QandA/EditAnswer/@a.Id">Edit Answer</a>
+            }
+        </p>
+    </div>
+}
+
+<p><a href="/QandA/AddAnswer/@Model.Id" style="font-size: xx-large">Post your answer!</a></p>
+<br />
+<br />

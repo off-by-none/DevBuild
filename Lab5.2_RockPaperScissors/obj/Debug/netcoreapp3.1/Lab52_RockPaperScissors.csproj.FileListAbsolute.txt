@@ -1,0 +1,11 @@
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\bin\Debug\netcoreapp3.1\Lab52_RockPaperScissors.exe
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\bin\Debug\netcoreapp3.1\Lab52_RockPaperScissors.deps.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\bin\Debug\netcoreapp3.1\Lab52_RockPaperScissors.runtimeconfig.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\bin\Debug\netcoreapp3.1\Lab52_RockPaperScissors.runtimeconfig.dev.json
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\bin\Debug\netcoreapp3.1\Lab52_RockPaperScissors.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\bin\Debug\netcoreapp3.1\Lab52_RockPaperScissors.pdb
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\obj\Debug\netcoreapp3.1\Lab52_RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\obj\Debug\netcoreapp3.1\Lab52_RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\obj\Debug\netcoreapp3.1\Lab52_RockPaperScissors.AssemblyInfo.cs
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\obj\Debug\netcoreapp3.1\Lab52_RockPaperScissors.dll
+C:\Users\BBREWER2\Documents\Brandon Brewer\Projects\Labs\Lab5.2_RockPaperScissors\Lab52_RockPaperScissors\obj\Debug\netcoreapp3.1\Lab52_RockPaperScissors.pdb
