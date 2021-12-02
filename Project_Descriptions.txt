@@ -1,0 +1,28 @@
+Lab 2.1 - Room Calculator
+Lab 2.2 - Power Tables
+Validating input with Regex
+Lab 3.1 - Provide information about students in the class.
+Task: Make a shopping list application which uses collections to store your items.
+Task: Take in a user input and display said input in reverse
+Task: Create an application that simulates dice rolling.
+Task: Translate from English to Pig Latin
+Task: List movies by category.
+Task: Implement polymorphism for a fantasy role-playing game.
+Task: Create a rock, paper, scissors game.
+Hold information about Car inventory using a collection of Car objects, including a UsedCar subclass.
+Using Test Driven Development practices, create an application that locates prime numbers.
+Create a movie database app.
+Create a personal website for yourself and to display your projects.
+Practice writing SQL statements on the Northwind database.
+In your MVC CoffeeShop, create a Product Index view which draws a list of products from a MS SQL database using Dapper.
+Create a User Registration Form using the MVC framework.
+Lucero, Brandon and Socrates team project.
+Create a web-based task manager using the starter IdentityExample1.
+Work with an API that generates JSON data to display information on a web page.
+Add client-side (JavaScript) validation a user registration form.
+This lab includes three parts to give you lots of TypeScript practice. Complete the entire lab in one project using one .ts file.
+Create an Angular application that displays to-dos and allows the user to add new ones.
+Use components to construct a list of small posts, similar to Twitter.
+Create an Angular app that displays the posts from the AWW Subreddit.
+DevBuild3.0 Final Project - Learning Management System
+Final project for Dev Build with Brandon Brewer and Olaposi Omishope
